@@ -1,0 +1,6 @@
+D:\Personal\Dank Drone Downloader\Updater Added\UpdateInfo\bin\Debug\UpdateInfo.dll
+D:\Personal\Dank Drone Downloader\Updater Added\UpdateInfo\bin\Debug\UpdateInfo.pdb
+D:\Personal\Dank Drone Downloader\Updater Added\UpdateInfo\obj\Debug\UpdateInfo.csproj.CoreCompileInputs.cache
+D:\Personal\Dank Drone Downloader\Updater Added\UpdateInfo\obj\Debug\UpdateInfo.dll
+D:\Personal\Dank Drone Downloader\Updater Added\UpdateInfo\obj\Debug\UpdateInfo.pdb
+D:\Personal\Dank Drone Downloader\Updater Added\UpdateInfo\obj\Debug\UpdateInfo.csprojResolveAssemblyReference.cache

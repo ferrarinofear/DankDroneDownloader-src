@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<update>
+	<!--Current version-->
+	<version>1.0.6556.25899</version>
+	<!--Update source.-->
+	<sources>
+		<!--Remote servers-->
+		<source>http://dankdronedownloader.co.uk/cs2000update/DankDroneDownloader.exe</source>
+	</sources>
+	<!--Description for this update. This text display without leading tabs and leading and trailing spaces-->
+	<description>
+		Added auto update feature. This was done to preserve the app if the host deletes the BIN files.
+	</description>
+</update>
