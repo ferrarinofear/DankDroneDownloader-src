@@ -8,3 +8,12 @@ D:\Personal\Dank Drone Downloader\Updater Added\updater\obj\Debug\updater.csproj
 D:\Personal\Dank Drone Downloader\Updater Added\updater\obj\Debug\updater.csproj.CoreCompileInputs.cache
 D:\Personal\Dank Drone Downloader\Updater Added\updater\obj\Debug\updater.exe
 D:\Personal\Dank Drone Downloader\Updater Added\updater\obj\Debug\updater.pdb
+D:\Personal\Drones\Dank Drone Downloader\4 Jezzab Link Added\updater\bin\Debug\updater.exe.config
+D:\Personal\Drones\Dank Drone Downloader\4 Jezzab Link Added\updater\bin\Debug\updater.exe
+D:\Personal\Drones\Dank Drone Downloader\4 Jezzab Link Added\updater\bin\Debug\updater.pdb
+D:\Personal\Drones\Dank Drone Downloader\4 Jezzab Link Added\updater\obj\Debug\updater.Form1.resources
+D:\Personal\Drones\Dank Drone Downloader\4 Jezzab Link Added\updater\obj\Debug\updater.Properties.Resources.resources
+D:\Personal\Drones\Dank Drone Downloader\4 Jezzab Link Added\updater\obj\Debug\updater.csproj.GenerateResource.Cache
+D:\Personal\Drones\Dank Drone Downloader\4 Jezzab Link Added\updater\obj\Debug\updater.csproj.CoreCompileInputs.cache
+D:\Personal\Drones\Dank Drone Downloader\4 Jezzab Link Added\updater\obj\Debug\updater.exe
+D:\Personal\Drones\Dank Drone Downloader\4 Jezzab Link Added\updater\obj\Debug\updater.pdb

@@ -5,3 +5,10 @@ D:\Personal\Dank Drone Downloader\Updater Added\xmlbuilder\obj\Debug\xmlbuilder.
 D:\Personal\Dank Drone Downloader\Updater Added\xmlbuilder\obj\Debug\xmlbuilder.csproj.CoreCompileInputs.cache
 D:\Personal\Dank Drone Downloader\Updater Added\xmlbuilder\obj\Debug\xmlbuilder.exe
 D:\Personal\Dank Drone Downloader\Updater Added\xmlbuilder\obj\Debug\xmlbuilder.pdb
+D:\Personal\Drones\Dank Drone Downloader\4 Jezzab Link Added\xmlbuilder\bin\Debug\xmlbuilder.exe.config
+D:\Personal\Drones\Dank Drone Downloader\4 Jezzab Link Added\xmlbuilder\bin\Debug\xmlbuilder.exe
+D:\Personal\Drones\Dank Drone Downloader\4 Jezzab Link Added\xmlbuilder\bin\Debug\xmlbuilder.pdb
+D:\Personal\Drones\Dank Drone Downloader\4 Jezzab Link Added\xmlbuilder\obj\Debug\xmlbuilder.csprojResolveAssemblyReference.cache
+D:\Personal\Drones\Dank Drone Downloader\4 Jezzab Link Added\xmlbuilder\obj\Debug\xmlbuilder.csproj.CoreCompileInputs.cache
+D:\Personal\Drones\Dank Drone Downloader\4 Jezzab Link Added\xmlbuilder\obj\Debug\xmlbuilder.exe
+D:\Personal\Drones\Dank Drone Downloader\4 Jezzab Link Added\xmlbuilder\obj\Debug\xmlbuilder.pdb

@@ -343,5 +343,14 @@ namespace DankDroneDownloader
 				}
 			}
 		}
-	}
+
+        private void DumlVisit(object sender, EventArgs e)
+        {
+            try
+            {
+                System.Diagnostics.Process.Start("https://github.com/jezzab/DUMLdore");
+            }
+            catch { }
+        }
+    }
 }

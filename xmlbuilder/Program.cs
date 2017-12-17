@@ -20,7 +20,7 @@ namespace xmlbuilder
 	</sources>
 	<!--Description for this update. This text display without leading tabs and leading and trailing spaces-->
 	<description>
-		Added auto update feature. This was done to preserve the app if the host deletes the BIN files.
+		Added link to DUMLdore, an easy way for Windows users to flash these FW files..
 	</description>
 </update>";
 

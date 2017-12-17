@@ -55,6 +55,8 @@
             this.label1 = new System.Windows.Forms.Label();
             this.Model_comboBox = new System.Windows.Forms.ComboBox();
             this.Refresh_button = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
+            this.label7 = new System.Windows.Forms.Label();
             this.multiPanel.SuspendLayout();
             this.WaitPage.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.Wait_pictureBox)).BeginInit();
@@ -74,7 +76,7 @@
             this.multiPanel.Location = new System.Drawing.Point(0, 0);
             this.multiPanel.Name = "multiPanel";
             this.multiPanel.SelectedPage = this.DataPage;
-            this.multiPanel.Size = new System.Drawing.Size(607, 607);
+            this.multiPanel.Size = new System.Drawing.Size(607, 641);
             this.multiPanel.TabIndex = 0;
             // 
             // WaitPage
@@ -113,6 +115,8 @@
             // 
             // DataPage
             // 
+            this.DataPage.Controls.Add(this.label7);
+            this.DataPage.Controls.Add(this.button1);
             this.DataPage.Controls.Add(this.label6);
             this.DataPage.Controls.Add(this.label5);
             this.DataPage.Controls.Add(this.RCOnly_radioButton);
@@ -132,33 +136,33 @@
             this.DataPage.Dock = System.Windows.Forms.DockStyle.Fill;
             this.DataPage.Location = new System.Drawing.Point(0, 0);
             this.DataPage.Name = "DataPage";
-            this.DataPage.Size = new System.Drawing.Size(607, 607);
+            this.DataPage.Size = new System.Drawing.Size(607, 641);
             this.DataPage.TabIndex = 1;
             this.DataPage.Text = "Data page";
             // 
             // label6
             // 
-            this.label6.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
+            this.label6.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.label6.Cursor = System.Windows.Forms.Cursors.Hand;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.label6.ForeColor = System.Drawing.SystemColors.MenuHighlight;
-            this.label6.Location = new System.Drawing.Point(57, 549);
+            this.label6.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.label6.Location = new System.Drawing.Point(180, 522);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(532, 22);
+            this.label6.Size = new System.Drawing.Size(279, 22);
             this.label6.TabIndex = 15;
-            this.label6.Text = "*** https://github.com/cs2000/DankDroneDownloader ***";
+            this.label6.Text = "https://github.com/cs2000/DankDroneDownloader";
             this.label6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.label6.Click += new System.EventHandler(this.GitVisit);
             // 
             // label5
             // 
-            this.label5.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label5.Location = new System.Drawing.Point(57, 502);
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label5.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.label5.Location = new System.Drawing.Point(180, 569);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(532, 30);
+            this.label5.Size = new System.Drawing.Size(279, 22);
             this.label5.TabIndex = 14;
+            this.label5.Text = "Want to flash this firmware? Get DUMLdore by Jezzab";
             this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // RCOnly_radioButton
@@ -166,7 +170,7 @@
             this.RCOnly_radioButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.RCOnly_radioButton.AutoSize = true;
             this.RCOnly_radioButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.RCOnly_radioButton.Location = new System.Drawing.Point(200, 335);
+            this.RCOnly_radioButton.Location = new System.Drawing.Point(200, 315);
             this.RCOnly_radioButton.Name = "RCOnly_radioButton";
             this.RCOnly_radioButton.Size = new System.Drawing.Size(61, 17);
             this.RCOnly_radioButton.TabIndex = 13;
@@ -179,7 +183,7 @@
             this.ACOnly_radioButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.ACOnly_radioButton.AutoSize = true;
             this.ACOnly_radioButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.ACOnly_radioButton.Location = new System.Drawing.Point(134, 335);
+            this.ACOnly_radioButton.Location = new System.Drawing.Point(134, 315);
             this.ACOnly_radioButton.Name = "ACOnly_radioButton";
             this.ACOnly_radioButton.Size = new System.Drawing.Size(60, 17);
             this.ACOnly_radioButton.TabIndex = 12;
@@ -191,7 +195,7 @@
             // 
             this.label4.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(19, 335);
+            this.label4.Location = new System.Drawing.Point(20, 315);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(37, 13);
             this.label4.TabIndex = 11;
@@ -203,7 +207,7 @@
             this.ACandRC_radioButton.AutoSize = true;
             this.ACandRC_radioButton.Checked = true;
             this.ACandRC_radioButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.ACandRC_radioButton.Location = new System.Drawing.Point(63, 335);
+            this.ACandRC_radioButton.Location = new System.Drawing.Point(63, 315);
             this.ACandRC_radioButton.Name = "ACandRC_radioButton";
             this.ACandRC_radioButton.Size = new System.Drawing.Size(65, 17);
             this.ACandRC_radioButton.TabIndex = 10;
@@ -216,9 +220,9 @@
             // 
             this.Download_progressBar.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.Download_progressBar.Location = new System.Drawing.Point(220, 574);
+            this.Download_progressBar.Location = new System.Drawing.Point(142, 493);
             this.Download_progressBar.Name = "Download_progressBar";
-            this.Download_progressBar.Size = new System.Drawing.Size(288, 12);
+            this.Download_progressBar.Size = new System.Drawing.Size(345, 17);
             this.Download_progressBar.TabIndex = 9;
             this.Download_progressBar.Visible = false;
             // 
@@ -228,7 +232,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.fileName_label.AutoEllipsis = true;
             this.fileName_label.ForeColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.fileName_label.Location = new System.Drawing.Point(266, 335);
+            this.fileName_label.Location = new System.Drawing.Point(266, 317);
             this.fileName_label.Name = "fileName_label";
             this.fileName_label.Size = new System.Drawing.Size(323, 15);
             this.fileName_label.TabIndex = 8;
@@ -240,11 +244,11 @@
             this.Download_button.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.Download_button.Enabled = false;
             this.Download_button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.Download_button.Location = new System.Drawing.Point(63, 574);
+            this.Download_button.Location = new System.Drawing.Point(61, 487);
             this.Download_button.Name = "Download_button";
-            this.Download_button.Size = new System.Drawing.Size(151, 23);
+            this.Download_button.Size = new System.Drawing.Size(75, 23);
             this.Download_button.TabIndex = 7;
-            this.Download_button.Text = "Download Firmware";
+            this.Download_button.Text = "Download";
             this.Download_button.UseVisualStyleBackColor = true;
             this.Download_button.Click += new System.EventHandler(this.Download_button_Click);
             // 
@@ -265,7 +269,7 @@
             this.Versions_listView.Location = new System.Drawing.Point(63, 42);
             this.Versions_listView.MultiSelect = false;
             this.Versions_listView.Name = "Versions_listView";
-            this.Versions_listView.Size = new System.Drawing.Size(526, 289);
+            this.Versions_listView.Size = new System.Drawing.Size(526, 266);
             this.Versions_listView.TabIndex = 3;
             this.Versions_listView.UseCompatibleStateImageBehavior = false;
             this.Versions_listView.View = System.Windows.Forms.View.Details;
@@ -299,7 +303,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.Notes_textBox.BackColor = System.Drawing.SystemColors.Window;
             this.Notes_textBox.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.Notes_textBox.Location = new System.Drawing.Point(63, 356);
+            this.Notes_textBox.Location = new System.Drawing.Point(63, 338);
             this.Notes_textBox.Multiline = true;
             this.Notes_textBox.Name = "Notes_textBox";
             this.Notes_textBox.ReadOnly = true;
@@ -311,7 +315,7 @@
             // 
             this.label3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(19, 356);
+            this.label3.Location = new System.Drawing.Point(20, 340);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(38, 13);
             this.label3.TabIndex = 5;
@@ -352,7 +356,7 @@
             // 
             this.Refresh_button.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.Refresh_button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.Refresh_button.Location = new System.Drawing.Point(514, 574);
+            this.Refresh_button.Location = new System.Drawing.Point(493, 487);
             this.Refresh_button.Name = "Refresh_button";
             this.Refresh_button.Size = new System.Drawing.Size(75, 23);
             this.Refresh_button.TabIndex = 0;
@@ -360,10 +364,33 @@
             this.Refresh_button.UseVisualStyleBackColor = true;
             this.Refresh_button.Click += new System.EventHandler(this.Refresh_button_ClickAsync);
             // 
+            // button1
+            // 
+            this.button1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button1.Location = new System.Drawing.Point(269, 601);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 17;
+            this.button1.Text = "Click Here";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.DumlVisit);
+            // 
+            // label7
+            // 
+            this.label7.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label7.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.label7.Location = new System.Drawing.Point(23, 558);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(566, 2);
+            this.label7.TabIndex = 18;
+            this.label7.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
             // Form1
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
-            this.ClientSize = new System.Drawing.Size(607, 607);
+            this.ClientSize = new System.Drawing.Size(607, 641);
             this.Controls.Add(this.multiPanel);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
@@ -408,6 +435,8 @@
 		private System.Windows.Forms.RadioButton ACandRC_radioButton;
 		private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Label label7;
     }
 }
 

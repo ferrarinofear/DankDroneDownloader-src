@@ -4,3 +4,8 @@ D:\Personal\Dank Drone Downloader\Updater Added\UpdateInfo\obj\Debug\UpdateInfo.
 D:\Personal\Dank Drone Downloader\Updater Added\UpdateInfo\obj\Debug\UpdateInfo.dll
 D:\Personal\Dank Drone Downloader\Updater Added\UpdateInfo\obj\Debug\UpdateInfo.pdb
 D:\Personal\Dank Drone Downloader\Updater Added\UpdateInfo\obj\Debug\UpdateInfo.csprojResolveAssemblyReference.cache
+D:\Personal\Drones\Dank Drone Downloader\4 Jezzab Link Added\UpdateInfo\bin\Debug\UpdateInfo.dll
+D:\Personal\Drones\Dank Drone Downloader\4 Jezzab Link Added\UpdateInfo\bin\Debug\UpdateInfo.pdb
+D:\Personal\Drones\Dank Drone Downloader\4 Jezzab Link Added\UpdateInfo\obj\Debug\UpdateInfo.csproj.CoreCompileInputs.cache
+D:\Personal\Drones\Dank Drone Downloader\4 Jezzab Link Added\UpdateInfo\obj\Debug\UpdateInfo.dll
+D:\Personal\Drones\Dank Drone Downloader\4 Jezzab Link Added\UpdateInfo\obj\Debug\UpdateInfo.pdb

@@ -11,3 +11,16 @@ D:\Personal\Dank Drone Downloader\Updater Added\DankDroneDownloader\bin\Debug\xm
 D:\Personal\Dank Drone Downloader\Updater Added\DankDroneDownloader\bin\Debug\xmlbuilder.exe.config
 D:\Personal\Dank Drone Downloader\Updater Added\DankDroneDownloader\obj\Debug\DankDroneDownloader.exe
 D:\Personal\Dank Drone Downloader\Updater Added\DankDroneDownloader\obj\Debug\DankDroneDownloader.pdb
+D:\Personal\Drones\Dank Drone Downloader\4 Jezzab Link Added\DankDroneDownloader\bin\Debug\DankDroneDownloader.exe.config
+D:\Personal\Drones\Dank Drone Downloader\4 Jezzab Link Added\DankDroneDownloader\bin\Debug\DankDroneDownloader.exe
+D:\Personal\Drones\Dank Drone Downloader\4 Jezzab Link Added\DankDroneDownloader\bin\Debug\DankDroneDownloader.pdb
+D:\Personal\Drones\Dank Drone Downloader\4 Jezzab Link Added\DankDroneDownloader\bin\Debug\xmlbuilder.exe
+D:\Personal\Drones\Dank Drone Downloader\4 Jezzab Link Added\DankDroneDownloader\bin\Debug\xmlbuilder.pdb
+D:\Personal\Drones\Dank Drone Downloader\4 Jezzab Link Added\DankDroneDownloader\bin\Debug\xmlbuilder.exe.config
+D:\Personal\Drones\Dank Drone Downloader\4 Jezzab Link Added\DankDroneDownloader\obj\Debug\DankDroneDownloader.csprojResolveAssemblyReference.cache
+D:\Personal\Drones\Dank Drone Downloader\4 Jezzab Link Added\DankDroneDownloader\obj\Debug\DankDroneDownloader.Form1.resources
+D:\Personal\Drones\Dank Drone Downloader\4 Jezzab Link Added\DankDroneDownloader\obj\Debug\DankDroneDownloader.Properties.Resources.resources
+D:\Personal\Drones\Dank Drone Downloader\4 Jezzab Link Added\DankDroneDownloader\obj\Debug\DankDroneDownloader.csproj.GenerateResource.Cache
+D:\Personal\Drones\Dank Drone Downloader\4 Jezzab Link Added\DankDroneDownloader\obj\Debug\DankDroneDownloader.csproj.CoreCompileInputs.cache
+D:\Personal\Drones\Dank Drone Downloader\4 Jezzab Link Added\DankDroneDownloader\obj\Debug\DankDroneDownloader.exe
+D:\Personal\Drones\Dank Drone Downloader\4 Jezzab Link Added\DankDroneDownloader\obj\Debug\DankDroneDownloader.pdb
